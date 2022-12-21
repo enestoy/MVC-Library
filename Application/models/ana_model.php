@@ -1,6 +1,5 @@
 <?php
-class anaModel extends  model
+class anaModel extends model
 {
 	
 }
-?>
